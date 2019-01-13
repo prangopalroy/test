@@ -1,0 +1,3 @@
+creating new file at branch2
+Added new line from Branch1
+added 3rd line from master

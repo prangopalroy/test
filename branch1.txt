@@ -1,0 +1,2 @@
+creating file for branch1
+line added in master
